@@ -3,6 +3,7 @@
 Im working on [AshBot](https://top.gg/bot/581075056956801056) rn ✨
 and you can contact me on my [Discord guild](https://discord.gg/64SkGBG)
 
+![myoctocat](https://i.hizliresim.com/bWLroE.png)
 <!--
 **ba-e/ba-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
