@@ -35,7 +35,7 @@ Hello, I'm Bae, a Turkish citizen who tries to learn new things every day.
 
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baen&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baen&show_icons=true&include_all_commits=true&hide_border=true&layout=compact" />
 </a>
 
 <a>
