@@ -12,7 +12,7 @@
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/discord.svg" />
 </a>
 <a href="https://tap.bio/@bae">
-  <img align="left" alt="Other links" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/circle-outline.svg" />
+  <img align="left" alt="Other links" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/plus.svg" />
 </a>
 
 <br />
@@ -35,9 +35,9 @@ Hello, I'm Bae, a Turkish citizen who tries to learn new things every day.
 
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baen&show_icons=true&include_all_commits=true&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baen&show_icons=true&include_all_commits=true&hide_border=true&layout=compact&theme=dark" />
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baen&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baen&layout=compact&hide_border=true&theme=dark" />
 </a>
