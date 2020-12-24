@@ -8,11 +8,8 @@
 <a href="https://twitter.com/ilkmancyp">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/twitter.svg" />
 </a>
-<a href="https://discord.gg/TPrpr76">
+<a href="https://discord.gg/tpawNxHCat">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/discord.svg" />
-</a>
-<a href="https://tap.bio/@bae">
-  <img align="left" alt="Other links" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/plus.svg" />
 </a>
 
 <br />
