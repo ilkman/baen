@@ -20,10 +20,10 @@
 
 Hello, I'm Mehmet, a Cypriot who tries to learn new things every day.
 
-- 🔭 I’m currently working on [Lenger](https://lengercy.com)
+- 🔭 I’m currently working on [Lenger](https://lengercy.com).
 - 🌱 I’m currently learning Javascript!
-- 👯 I’m looking to collaborate on [Lenger](https://lengercy.com) *backend dev pls*
-- 💬 Ask me about anything [here](https://mehmetilkman.com/ama)
+- 👯 I’m looking to collaborate on [Lenger](https://lengercy.com). *backend dev pls*
+- 💬 Ask me about anything [here](https://mehmetilkman.com/ama).
 
 **Languages and Tools:**  
 
