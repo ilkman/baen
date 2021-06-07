@@ -8,7 +8,7 @@
 <a href="https://twitter.com/ilkmancyp">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/twitter.svg" />
 </a>
-<a href="https://discord.gg/tpawNxHCat">
+<a href="https://dsc.gg/cyprus">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/discord.svg" />
 </a>
 
